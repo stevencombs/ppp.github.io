@@ -1,0 +1,14 @@
+layout: page
+title: "Pixel Power Podcast version 2.0"
+
+# Welcome to the home of the new Pixel Power Podcast
+
+I will soon migrage the old site to this new GitHub hosted pages site. This will allow more interactivity as I can then incoporate a forum. This new site will also allow me to receive higher search results and make it easier to maintain and manage show notes and content. Come back in 2020 to see the upgrade.
+
+<h1>Latest Posts</h1>
+{% for post in site.posts limit:10 %}
+<li style='list-style-type: none;'>
+</h2><a href="{{ post.url }}">{{ post.title }}</a></h2> – {{ post.date | date: "%B %d, %Y" }} <div></div>
+<div>{{ post.content |truncatehtml | truncatewords: 40 }}</div>
+</li>
+{% endfor %}
