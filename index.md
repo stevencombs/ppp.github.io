@@ -8,8 +8,8 @@ I will soon migrage the old site to this new GitHub hosted pages site. This will
 
 ## Latest Posts
 {% for post in site.posts limit:15 %}
-	<li>
-	<a href="{{ post.url }}{{ post.title }}"" – {{ post.date | date: "%B %d, %Y" }}
-	{{ post.content |truncatehtml | truncatewords: 40 }}
+	<li style='list-style-type: none;'>
+	<div><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}</div>
+	<div>{{ post.content |truncatehtml | truncatewords: 40 }}</div>
 	</li>
 	{% endfor %}
