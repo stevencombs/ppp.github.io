@@ -12,4 +12,4 @@ I will soon migrate the old site to this new GitHub hosted pages site. This will
 	<div><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}</div>
 	<div>{{ post.content |truncatehtml | truncatewords: 40 }}</div>
 	</li>
-	{% endfor %}
+{% endfor %}
