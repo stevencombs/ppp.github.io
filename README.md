@@ -1,4 +1,7 @@
-# The Minimal theme
+# Welcome to the new home for the Pixel Power Podcast
+This podcast website is hosted on GitHub Pages and uses the Minimal Theme. More information to come.
+
+## The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 

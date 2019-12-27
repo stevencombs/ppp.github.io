@@ -2,8 +2,11 @@
 layout: post
 title:  "Welcome to the Pixel Power Podcast!"
 date:   2019-12-20 20:39:23 -0500
+author: "Steven B. Combs, Ph.D."
 category:
   - podcast
+tags:
+  - updates
 ---
 ![Trial Image](https://www.stevencombs.com/images/posts/2019-02-22-android-tv-remote-sheet.png)
 

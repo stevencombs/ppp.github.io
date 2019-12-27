@@ -1,7 +1,9 @@
 title: Pixel Power Podcast
 logo: /assets/img/logo.svg
+url: https://www.pixelpowerpodcast.com
 description: 'The podcast that helps you get the most out of your Google-powered devices.'
-show_downloads: false
+show_downloads: true
 google_analytics: 
 theme: jekyll-theme-minimal
 timezone: America/Indiana/Indianapolis
+author: Steven B. Combs, Ph.D.
