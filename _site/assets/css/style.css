@@ -154,7 +154,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 1000px; /* original width:860px; */ margin: 0 auto; }
+.wrapper { width: 860px; /* original width:860px; */ margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -194,7 +194,7 @@ strong { color: #222; font-weight: 700; }
 
 .downloads a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 680px; /* original 500 */ float: right; padding-bottom: 50px; }
+section { width: 500px; float: right; padding-bottom: 50px; }
 
 small { font-size: 11px; }
 
