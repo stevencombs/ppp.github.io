@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "0040: Holiday Hiatus!"
+permalink: /0040/
 date:   2019-12-18 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
 category:
