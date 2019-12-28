@@ -3,7 +3,7 @@ logo: /assets/img/logo.svg
 url: https://www.pixelpowerpodcast.com
 description: 'The podcast that helps you get the most out of your Google-powered devices.'
 show_downloads: true
-google_analytics: 
+google_analytics: UA-129766303-1
 theme: jekyll-theme-minimal
 timezone: America/Indiana/Indianapolis
 author: Steven B. Combs, Ph.D.

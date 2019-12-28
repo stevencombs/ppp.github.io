@@ -1,0 +1,22 @@
+I"�<h1 id="welcome-to-the-home-of-the-new-pixel-power-podcast">Welcome to the home of the new Pixel Power Podcast</h1>
+
+<p>I will soon migrate the old site to this new GitHub hosted pages site. This will allow more interactivity as I can then incoporate a forum. This new site will also allow me to receive higher search results and make it easier to maintain and manage show notes and content. Come back in 2020 to see the upgrade.</p>
+
+<h1>Search Episodes</h1>
+<p>Looking for a specific show or contents in the awesome show notes? Use the Google Search feature below:</p>
+
+<form method="get" action="http://www.google.com/search" target="_blank">
+<input type="hidden" name="sitesearch" value="stevencombs.com" />
+<input type="text" name="q" size="60" maxlength="255" placeholder="Enter search string..." />
+</form>
+<p><br /></p>
+
+<h1>Latest Posts</h1>
+
+<li style="list-style-type: none;">
+December 18, 2019<br />
+<h2><a href="/podcast/2019/12/18/0040-holiday-hiatus.html">0040: Holiday Hiatus!</a></h2>
+<p>It’s the last episode of the year before I head off for a holiday hiatus and I’ve got some news for the new year. No main topic this episode, but an extended addendum. Think of it as a stocking full...
+
+</p></li>
+:ET
