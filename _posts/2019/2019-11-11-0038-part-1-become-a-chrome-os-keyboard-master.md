@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0038: Part I - Become a Chrome OS Keyboard Master.md"
+title:  "0038: Part I - Become a Chrome OS Keyboard Master"
 permalink: /0038/
 date:   2019-11-11 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
