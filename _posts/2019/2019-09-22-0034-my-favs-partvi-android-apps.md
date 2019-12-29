@@ -266,7 +266,7 @@ Use the following methods to share feedack on this episode:
 
 * Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
-* Join the conversation on [Reddit]()
+* Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)
 
 <!-- Reference Links to Apps -->
