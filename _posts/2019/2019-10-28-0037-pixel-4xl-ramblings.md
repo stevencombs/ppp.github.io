@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0037: Pixle 4XL Ramblings"
+title:  "0037: Pixel 4XL Ramblings"
 permalink: /0037/
 date:   2019-10-28 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
