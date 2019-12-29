@@ -14,7 +14,7 @@ tags:
   - video
 ---
 
-In this recording, and just in time for your commute home, I share my ramblings and musings from today's **Made by Google 2019** event. As a reminder, ad hoc episodes don't include show notes, aren't prepared, and receive minimal editing.
+In this recording, and just in time for your commute home, I share my ramblings and musings from the 2019 Made by Google event. As a reminder, ad hoc episodes don't include show notes, aren't prepared, and receive minimal editing.
 
 ## Episode Download
 
