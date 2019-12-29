@@ -27,21 +27,28 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#EDBC35; /* ppp yellow */
 }
 
-h3, h4, h5, h6 {
+h3 {
+  color: #999999; /* ppp gray */
+}
+
+h4 {
+  color: #D63B42; /* ppp red */
+}
+
+h5, h6 {
   color:#494949;
 }
 
 a {
-  color:#627AF0; /* PPP Blue */
+  color:#627AF0; /* ppp blue */
   text-decoration: none;
 }
 
 a:hover, a:focus {
-  color:#999999;
-/*  font-weight: bold; */
+  color:#999999; /* ppp gray */
 }
 
 a small {
