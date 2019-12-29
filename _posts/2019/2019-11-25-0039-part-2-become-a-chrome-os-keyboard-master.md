@@ -4,6 +4,7 @@ title:  "0039: Part II – Become a Chrome OS Keyboard Master"
 permalink: /0039/
 date:   2019-11-25 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
+comments: true
 category:
   - podcast
 tags:

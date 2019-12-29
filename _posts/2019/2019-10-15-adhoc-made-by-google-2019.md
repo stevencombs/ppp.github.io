@@ -4,6 +4,7 @@ title:  "0036: Ad Hoc - Made by Google Event 2019"
 permalink: /0036/
 date:   2019-10-15 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
+comments: true
 category:
   - podcast
 tags:
