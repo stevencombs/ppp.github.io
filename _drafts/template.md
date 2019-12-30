@@ -22,6 +22,10 @@ Show synopsis
 
 ![Episode Album Art](/images/album-art/2019/00XX.png)
 
+## Listen now
+
+<!-- embed code here and change width to 500px -->
+
 ## Show Notes
 
 [View Enhance Show Notes](google docs link)
