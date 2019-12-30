@@ -20,11 +20,11 @@ Show synopsis
 
 [Download Episode](anchor.fm link)
 
-![Episode Album Art](/images/album-art/2019/00XX.png)
-
 ## Listen now
 
-<p><!-- embed code here and change width to 500px --></p>
+<p><!-- embed anchor code here and change width to 500px --></p>
+
+![Episode Album Art](/images/album-art/2019/00XX.png)
 
 ## Show Notes
 

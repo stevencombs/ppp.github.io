@@ -23,6 +23,10 @@ The sixth and final in my six-part series of My Favs episodes. In this episode, 
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/2c1ca443cfc0e6f86b89ecc97a041e5b.m4a)
 
+## Listen now
+
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0034-My-Favs-Part-VI-Android-Apps-e5h871" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+
 ![Episode Album Art](/images/album-art/2019/0034.png)
 
 ## Show Notes

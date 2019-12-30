@@ -20,15 +20,15 @@ In this recording, and just in time for your commute home, I share my ramblings 
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/ba7c1aed97ea05f530357c50d17be3b4.m4a)
 
-![Episode Album Art](/images/album-art/2019/0036.png)
+## Listen now
 
-## Show Notes
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0036-Ad-Hoc---Made-by-Google-Event-2019-Warning--Ramblings-ahead-e7no1l" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ### Google IO 2019 Video
 
 Watch the official video and then listen to this episode for my commentary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XKmsYB54zBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="512" height="288" src="https://www.youtube.com/embed/XKmsYB54zBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Feeback
 

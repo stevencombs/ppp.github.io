@@ -21,6 +21,10 @@ It's Halloween and in this episode I share my new Treat (or is that Trick?); the
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/f7a5103107118f875a3cd6add97e9297.m4a)
 
+## Listen now
+
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0037-Pixel-4-XL-Ramblings-e7v9v7" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+
 ![Episode Album Art](/images/album-art/2019/0037.png)
 
 ## Show Notes
