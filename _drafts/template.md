@@ -22,7 +22,7 @@ Show synopsis
 
 ## Listen now
 
-<p><!-- embed anchor code here and change width to 500px --></p>
+<p><iframe src="<!-- link -->" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2019/00XX.png)
 
