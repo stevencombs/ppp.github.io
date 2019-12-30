@@ -10,8 +10,8 @@ I will soon migrate the old site to this new GitHub hosted pages site. This will
 Looking for a specific show or contents in the awesome show notes? Use the Google Search feature below:
 
 <form method="get" action="http://www.google.com/search" target="_blank">
-<input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" />
-<input type="text" name="q" size=500px maxlength="255" placeholder="Enter search string..." />
+<input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" width=500px />
+<input type="text" name="q" size="75" maxlength="255" placeholder="Enter search string..." />
 </form>
 <br>
 

@@ -24,7 +24,7 @@ Show synopsis
 
 ## Listen now
 
-<!-- embed code here and change width to 500px -->
+<p><!-- embed code here and change width to 500px --></p>
 
 ## Show Notes
 
