@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0034: My Favs Part IV: Android Apps"
+title:  "0034: My Favs Part VI: Android Apps"
 permalink: /0034/
 date:   2019-09-22 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
