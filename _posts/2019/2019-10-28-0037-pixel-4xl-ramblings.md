@@ -23,7 +23,7 @@ It's Halloween and in this episode I share my new Treat (or is that Trick?); the
 
 ## Listen now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0037-Pixel-4-XL-Ramblings-e7v9v7" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0037-Pixel-4-XL-Ramblings-e7v9v7" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2019/0037.png)
 

@@ -23,7 +23,7 @@ In the Addendum I answer a listener question, share some additional flags, clear
 
 ## Listen now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0033-My-Favs-Part-V-Chrome-Browser-Extensions-e59qb4" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0033-My-Favs-Part-V-Chrome-Browser-Extensions-e59qb4" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2019/0033.png)
 

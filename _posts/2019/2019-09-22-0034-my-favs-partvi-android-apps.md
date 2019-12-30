@@ -25,7 +25,7 @@ The sixth and final in my six-part series of My Favs episodes. In this episode, 
 
 ## Listen now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0034-My-Favs-Part-VI-Android-Apps-e5h871" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0034-My-Favs-Part-VI-Android-Apps-e5h871" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2019/0034.png)
 

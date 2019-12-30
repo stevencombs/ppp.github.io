@@ -23,7 +23,7 @@ In the first of this two-part series, we learn how to master our Pixelbook/Slate
 
 ## Listen now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0038-Part-I--Become-a-Chrome-OS-Keyboard-Master-e8uo1h" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0038-Part-I--Become-a-Chrome-OS-Keyboard-Master-e8uo1h" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2019/0038.png)
 

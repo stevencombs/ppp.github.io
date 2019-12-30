@@ -23,7 +23,7 @@ It’s the last episode of the year before I head off for a holiday hiatus and I
 
 ## Listen now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0040-Holiday-Hiatus-e9k2ts" height="102px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0040-Holiday-Hiatus-e9k2ts" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2019/0040.png)
 
