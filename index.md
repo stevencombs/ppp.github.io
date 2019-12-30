@@ -11,7 +11,7 @@ Looking for a specific show or contents in the awesome show notes? Use the Googl
 
 <form method="get" action="http://www.google.com/search" target="_blank">
 <input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" />
-<input type="text" name="q" size="60" maxlength="255" placeholder="Enter search string..." />
+<input type="text" name="q" size=500px maxlength="255" placeholder="Enter search string..." />
 </form>
 <br>
 
