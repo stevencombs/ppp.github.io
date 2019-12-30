@@ -21,6 +21,8 @@ It’s the last episode of the year before I head off for a holiday hiatus and I
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/cf63050014eb7447b8632b443e3a6e76.m4a)
 
+![Episode Album Art](/images/album-art/2019/0040.png)
+
 ## Show Notes
 
 [View Enhanced Show Notes](https://docs.google.com/document/d/13E_utKOoB7bfqBX_wYRaZWitKLmznFx7kSS2QjHoSk4/edit?usp=sharing)
@@ -28,7 +30,7 @@ It’s the last episode of the year before I head off for a holiday hiatus and I
 ## Feeback
 Use the following methods to share feedack on this episode:
 
-* Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
+* Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)

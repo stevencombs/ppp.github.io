@@ -17,10 +17,11 @@ In the first of this two-part series, we learn how to master our Pixelbook/Slate
 
 ![image](/images/posts/2019-11-25-slate-keyboard.jpg)
 
-
 ## Episode Download
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/f477fed513ab22fb40d9046699f5a62d.m4a)
+
+![Episode Album Art](/images/album-art/2019/0038.png)
 
 ## Show Notes
 
@@ -30,7 +31,7 @@ In the first of this two-part series, we learn how to master our Pixelbook/Slate
 
 Use the following methods to share feedack on this episode:
 
-* Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
+* Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)

@@ -20,6 +20,8 @@ Show synopsis
 
 [Download Episode](anchor.fm link)
 
+![Episode Album Art](/images/album-art/2019/00XX.png)
+
 ## Show Notes
 
 [View Enhance Show Notes](google docs link)
@@ -28,7 +30,7 @@ Show synopsis
 
 Use the following methods to share feedack on this episode:
 
-* Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
+* Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)

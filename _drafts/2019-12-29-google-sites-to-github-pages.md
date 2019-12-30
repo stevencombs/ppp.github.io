@@ -61,11 +61,13 @@ I wish I could use Chrome OS devices exclusively for everything I do. For 90% of
 
 Manual process to convert individual episode pages which is why moving to Jekyll was a great idea. Markdown means this task would be easier in the future (hopefully I will not ever need to do this again!).
 
+It was a great chance to clean up some errors and correct consistency. Be sure and go back and look at previous episode pages for new content.
+
 ## Feeback
 
 Use the following methods to share feedack on this post:
 
-* Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
+* Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)

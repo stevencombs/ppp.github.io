@@ -16,7 +16,7 @@ Looking for a specific show or contents in the awesome show notes? Use the Googl
 <br>
 
 <h1>Latest Posts</h1>
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:100 %}
 <li style='list-style-type: none;'>
 {{ post.date | date: "%B %d, %Y" }}<br>
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>

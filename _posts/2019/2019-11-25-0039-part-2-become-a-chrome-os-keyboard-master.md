@@ -22,6 +22,8 @@ In the second and last part Turkey Day edition of the two-part series, I spend l
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/2c7ec03a9e67d01e0197137aa4e4a06f.m4a)
 
+![Episode Album Art](/images/album-art/2019/0039.png)
+
 ## Show Notes
 
 [View Enhanced Show Notes](https://docs.google.com/document/d/1NfLR3LG2NS0xHKQNAAT6eo126LZL2hrp9UU1IKAcjcQ/edit?usp=sharing)
@@ -30,7 +32,7 @@ In the second and last part Turkey Day edition of the two-part series, I spend l
 
 Use the following methods to share feedack on this episode:
 
-* Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
+* Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)

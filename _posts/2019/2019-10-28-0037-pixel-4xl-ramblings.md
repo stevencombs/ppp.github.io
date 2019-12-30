@@ -21,6 +21,8 @@ It's Halloween and in this episode I share my new Treat (or is that Trick?); the
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/f7a5103107118f875a3cd6add97e9297.m4a)
 
+![Episode Album Art](/images/album-art/2019/0037.png)
+
 ## Show Notes
 
 ### Welcome
@@ -163,7 +165,7 @@ What'd I miss? Post your comments on the [episode Subreddit post comments](http:
 ## Feeback
 Use the following methods to share feedack on this episode:
 
-* Sending an email to [steven@pixelpowerpodcast.com](mailto:steven@pixelpowerpodcast.com)
+* Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)
