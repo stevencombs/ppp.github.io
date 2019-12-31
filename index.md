@@ -8,16 +8,16 @@ Each episode of the podcast and each blog post helps listeners and readers get t
 
 ![OG Pixel Phone](/images/design/og-pixel.jpg)
 
-<h2>Search Episodes</h2>
-Looking for a specific show or contents in the awesome show notes? Use the Google Search feature below:
+<h2>Search</h2>
+Looking for a specific shows or content? Use the Google search feature below:
 
 <form method="get" action="http://www.google.com/search" target="_blank">
 <input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" width="500px" />
-<input type="text" name="q" size="75" maxlength="255" placeholder="Enter search string..." />
+<input type="text" name="q" size="50" maxlength="255" placeholder="🔍 Enter search string… " />
 </form>
 <br>
 
-<h2>Latest Posts</h2>
+<h2>Latest Episodes and Posts</h2>
 {% for post in site.posts limit:100 %}
 <li style='list-style-type: none;'>
 {{ post.date | date: "%B %d, %Y" }}<br>
