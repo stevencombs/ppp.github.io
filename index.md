@@ -15,7 +15,6 @@ Looking for a specific shows or content? Use the Google search feature below:
 <input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" width="500px" />
 🔍 <input type="text" name="q" size="50" maxlength="255" placeholder="Enter search string… " />
 </form>
-<br>
 
 <h2>Latest Episodes and Posts</h2>
 {% for post in site.posts limit:100 %}
@@ -24,3 +23,5 @@ Looking for a specific shows or content? Use the Google search feature below:
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 {{ post.content |truncatehtml | truncatewords: 40 }}
 {% endfor %}
+
+</hr>
