@@ -11,10 +11,12 @@ Each episode of the podcast and each blog post helps listeners and readers get t
 <h2>Search</h2>
 Looking for a specific shows or content? Use the Google search feature below:
 
-<form method="get" action="http://www.google.com/search" target="_blank">
-<input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" width="500px" />
-🔍 <input type="text" name="q" size="50" maxlength="255" placeholder="Enter search string… " />
-</form></br>
+<p>
+  <form method="get" action="http://www.google.com/search" target="_blank">
+    <input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" width="500px" />
+    🔍 <input type="text" name="q" size="50" maxlength="255" placeholder="Enter search string… " />
+  </form>
+</p>
 
 <h2>Latest Episodes and Posts</h2>
 {% for post in site.posts limit:100 %}
