@@ -8,6 +8,8 @@ Each episode of the podcast and each blog post helps listeners and readers get t
 
 ![OG Pixel Phone](/images/design/og-pixel.jpg)
 
+<hr>
+
 <h2>Search</h2>
 Looking for a specific shows or content? Use the Google search feature below:
 
@@ -17,6 +19,8 @@ Looking for a specific shows or content? Use the Google search feature below:
     🔍 <input type="text" name="q" size="50" maxlength="255" placeholder="Enter search string… " />
   </form>
 </p>
+
+<hr>
 
 <h2>Latest Episodes and Posts</h2>
 {% for post in site.posts limit:100 %}
