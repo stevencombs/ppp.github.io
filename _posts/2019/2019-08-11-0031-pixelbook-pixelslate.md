@@ -149,8 +149,8 @@ Click the image below to view a gallery of the two devices I created using my Pi
 * And that's the wonderful thing about our Chrome OS devices, we have the same apps and data on whichever device we use making this transition seamless!
 
 ### Amazon Links:
-[Google Pixel Slate (m3)](https://amzn.to/37o82K1)
-[Google Pixelbook (i5)](https://amzn.to/37u8dU7)
+- [Google Pixel Slate (m3)](https://amzn.to/37o82K1)
+- [Google Pixelbook (i5)](https://amzn.to/37u8dU7)
 
 ## Feeback
 

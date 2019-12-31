@@ -16,6 +16,15 @@ tags:
 
 The sixth and final in my six-part series of My Favs episodes. In this episode, I share my favorite Android apps for the Pixel Phone. These are the applications I have installed on my Pixel Phone. Since this episode could be a "snoozer", I keep it lively and share tips and tricks for each app. In the Addendum, I share a first for me and some additional pixel-powered tips and news.
 
+Series Links:
+
+- [0034: My Favs Part VI: Android Apps](/0034) [2019-09-22]
+- [0033: My Favs Part V: Chrome Browser Extensions](/0033) [2019-09-08]
+- [0032: My Favs Part IV: Chrome OS Flags](/0032) [2019-08-25]
+- [0030: My Favs Part III: Chrome for Android Flags](/0030) [2019-08-05]
+- [0029: My Favs Part II: Android Apps for Chrome OS](/0020) [2019-07-21]
+- [0028: My Favs Part I: Chrome OS Apps](/0028) [2019-07-07]
+
 ![Android Apps!](/images/posts/2019-09-22-android-apps/android-apps.jpg)
 
 
