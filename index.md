@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Welcome to the home of the new Pixel Power Podcast
+# Welcome to the Pixel Power Podcast
 
 Each episode of the podcast and each blog post helps listeners and readers get the most out of your Google-powered devices and apps such as the Pixelbook, Pixel Slate, and Pixel phones.
+
+Subscribe now at [Anchor.fm](https://anchor.fm/pixelpowerpodcast), [Pocket Casts](https://pca.st/RsNl), [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83ZDgyNmI4L3BvZGNhc3QvcnNz), [iTunes](https://podcasts.apple.com/us/podcast/pixel-power-podcast/id1444466814), or searching for _Pixel Power Podcast_ in your favorite podcast client.
 
 ![OG Pixel Phone](/images/design/og-pixel.jpg)
 
