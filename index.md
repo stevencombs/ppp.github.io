@@ -26,4 +26,4 @@ Looking for a specific shows or content? Use the Google search feature below:
 {{ post.content |truncatehtml | truncatewords: 40 }}
 {% endfor %}
 
-<hr></hr>
+<hr>
