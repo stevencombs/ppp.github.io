@@ -34,7 +34,7 @@ I take a short break from my six part "My Favs" series and sneak in this special
 
 Click the image below to view a gallery of the two devices I created using my Pixel 3 XL's camera:
 
-[![Pixelbook and Pixel Slate](images/posts/2019-08-11-pixelbook-pixelslate.jpg)](https://photos.app.goo.gl/s2TakiRU6BgqcXvw6)
+[![Pixelbook and Pixel Slate](/images/posts/2019-08-11-pixelbook-pixelslate.jpg)](https://photos.app.goo.gl/s2TakiRU6BgqcXvw6)
 
 ### Google Pixelbook (i5) Specs
 - My daily driver for a year
