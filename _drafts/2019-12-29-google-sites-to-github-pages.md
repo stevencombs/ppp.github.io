@@ -63,6 +63,8 @@ Manual process to convert individual episode pages which is why moving to Jekyll
 
 It was a great chance to clean up some errors and correct consistency. Be sure and go back and look at previous episode pages for new content.
 
+Added an RSS feed to the Jekyll site. Thanks to Joel Glovier for [these simple instructions](https://joelglovier.com/writing/rss-for-jekyll).
+
 ## Feeback
 
 Use the following methods to share feedack on this post:
