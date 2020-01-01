@@ -1,6 +1,15 @@
 ---
 layout: default
-permalink: /linux/
+permalink: /linux
+tags:
+  - linux
+  - chromeos
+  - howto
+  - vm
+  - termux
+  - commands
+  - commandline
+  - terminal
 ---
 
 # Linux on Chrome OS
