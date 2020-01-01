@@ -14,9 +14,9 @@ tags:
 
 # Linux on Chrome OS
 
-During the months of April and May of 2019, I recorded a four-part series of Pixel Power Podcast episodes where I discuss installing and using Linux on Chrome OS via Google's Crostini virtual machine (VM) system.
+During the months of April and May of 2019, I recorded a four-part series of Pixel Power Podcast episodes where I discuss the install and use of Linux on Chrome OS via Google's Crostini virtual machine (VM) system.
 
-The show received a great response and this page consolidates all four original episode's audio, each episode's comprehensive show notes, and additional bonus information and resources that were not included in the episodes or were covered with little depth. I hope you enjoy the episodes.
+The shows received a great response and this page consolidates all four original episode's audio, each episode's comprehensive show notes, and additional bonus information and resources that were not included in the episodes or were covered with little depth.
 
 Earlier in April of 2019, I also recorded an episode describing how to use the Linux terminal Android app, [Termux](https://termux.com), on the Pixel Phone. This page also collects that episode and the resources mentioned.
 
@@ -24,10 +24,19 @@ I plan to keep this page updated and include new resources as they become availa
 
 ## Linux on Chrome OS Episodes
 
+### Episode Audio
+
 - [0021: Part 1 - Installation and virtual machine review](/021) [2019-04-22]
 - [0022: Part 2 - Linux applications installations](/0022) [2019-04-29]
 - [0024: Part 3 - File management and hardware devices](/0024) [2019-05-19]
 - [0025: Part 4 - Linux terminal commands](/0025) [2019-05-26]
+
+### Episode Show Notes
+
+- [0021: Part 1 - Installation and virtual machine review](https://docs.google.com/document/d/1AHhXEgUDgTeoHnSHq0n46R6FUXaJZVPyIMKWQPg-atI/edit?usp=sharing) [2019-04-22]
+- [0022: Part 2 - Linux applications installations](https://docs.google.com/document/d/1kPbzHYavLEZoJyspYjncVw0oF9QjJn-4I00nacZZ5aU/edit?usp=sharing) [2019-04-29]
+- [0024: Part 3 - File management and hardware devices](https://docs.google.com/document/d/1Meghu4O_XsYgy_Q2bg5J4l29yAGAnhapnO4qDGSHK7Y/edit?usp=sharing) [2019-05-19]
+- [0025: Part 4 - Linux terminal commands](https://docs.google.com/document/d/1_6VOA8tSHkb9wu7xyomtnLp27-WdDPNMZf7T6MXlpy0/edit?usp=sharing) [2019-05-26]
 
 If you enjoyed these episodes or learned something new, consider supporting the podcast. Whether a [one time tip](https://www.paypal.me/stevencombs) or [a monthly subscription](https://anchor.fm/pixelpowerpodcast/support) of your choosing, your support will allow me continue to bring you future shows and the comprehensive show notes you have come to know and love.
 
