@@ -3,13 +3,15 @@ layout: default
 permalink: /linux/
 ---
 
-# Crostini (Debian Linux) on Chrome OS
+# Linux on Chrome OS
 
 During the months of April and May of 2019, I recorded a four-part series of Pixel Power Podcast episodes where I discuss installing and using Linux on Chrome OS via Google's Crostini virtual machine (VM) system.
 
 The show received a great response and this page consolidates all four original episode's audio, each episode's comprehensive show notes, and additional bonus information and resources that were not included in the episodes or were covered with little depth. I hope you enjoy the episodes.
 
-I plan to keep this page updated and include new resources as they become available. It is my hope this page becomes a useful resource for those users new to Crostini and running Linux on Chrome OS.
+Earlier in April of 2019, I also recorded an episode describing how to use the Linux terminal Android app, [Termux](https://termux.com), on the Pixel Phone. This page also collects that episode and the resources mentioned.
+
+I plan to keep this page updated and include new resources as they become available. It is my hope this page becomes a useful resource for those users new to Crostini, Termux, and Linux on Chrome OS.
 
 ## Linux on Chrome OS Episodes
 
@@ -46,7 +48,7 @@ If you enjoyed these episodes or learned something new, consider supporting the 
 
 ## Additional Reading
 
-If you really want to learn Linux Commands, I highly recommend the following book:
+If you really want to learn Linux commands, I highly recommend the book below:
 
 - The Linux Command Line: A Complete Introduction
 - William E. Shots, Jr.
