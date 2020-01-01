@@ -23,7 +23,7 @@ Series Links:
 - [0033: My Favs Part V: Chrome Browser Extensions](/0033) [2019-09-08]
 - [0032: My Favs Part IV: Chrome OS Flags](/0032) [2019-08-25]
 - [0030: My Favs Part III: Chrome for Android Flags](/0030) [2019-08-05]
-- [0029: My Favs Part II: Android Apps for Chrome OS](/0020) [2019-07-21]
+- [0029: My Favs Part II: Android Apps for Chrome OS](/0029) [2019-07-21]
 - [0028: My Favs Part I: Chrome OS Apps](/0028) [2019-07-07]
 
 ## Episode Download
