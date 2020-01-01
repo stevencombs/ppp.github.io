@@ -26,7 +26,7 @@ Series Links:
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/2843426ec134b624be846112f36aa70d.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0028-My-Favs-Part-I-Chrome-OS-Applications-e4i7e5" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

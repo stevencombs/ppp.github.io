@@ -30,7 +30,7 @@ Series Links:
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/4cc89ff4f6ba5a371b74f8c4f12c7ffc.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0032-My-Favs-Part-IV-Chrome-OS-Flags-e53l8r" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

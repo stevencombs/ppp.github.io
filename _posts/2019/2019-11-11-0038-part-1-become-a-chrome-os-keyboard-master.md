@@ -21,7 +21,7 @@ In the first of this two-part series, we learn how to master our Pixelbook/Slate
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/f477fed513ab22fb40d9046699f5a62d.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0038-Part-I--Become-a-Chrome-OS-Keyboard-Master-e8uo1h" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

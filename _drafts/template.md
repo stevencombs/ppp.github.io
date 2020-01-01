@@ -19,7 +19,7 @@ Show synopsis
 
 [Download Episode](anchor.fm link)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="<!-- link -->" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

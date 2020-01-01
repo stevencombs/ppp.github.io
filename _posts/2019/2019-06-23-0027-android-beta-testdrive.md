@@ -19,7 +19,7 @@ In this episode, I take a look at the latest version of Android Q beta with rele
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/3ebf12cf948b14a0ba1d319b7e604ad0.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0027-Android-Q-beta-4-test-drive-e4e1c0" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

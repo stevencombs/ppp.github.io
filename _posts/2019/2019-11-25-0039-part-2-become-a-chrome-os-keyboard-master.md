@@ -22,7 +22,7 @@ In the second and last part Turkey Day edition of the two-part series, I spend l
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/2c7ec03a9e67d01e0197137aa4e4a06f.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0039-Part-II--Become-a-Chrome-OS-Keyboard-Master-e96pa1" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

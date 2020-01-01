@@ -25,12 +25,12 @@ Series Links:
 - [0030: My Favs Part III: Chrome for Android Flags](/0030) [2019-08-05]
 - [0029: My Favs Part II: Android Apps for Chrome OS](/0020) [2019-07-21]
 - [0028: My Favs Part I: Chrome OS Apps](/0028) [2019-07-07]
-- 
+-
 ## Episode Download
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/18588a2558aadd84f719cf0f4e9ed213.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0033-My-Favs-Part-V-Chrome-Browser-Extensions-e59qb4" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

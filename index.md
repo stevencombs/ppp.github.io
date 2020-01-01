@@ -20,7 +20,7 @@ Looking for a specific shows or content? Use the Google search feature below:
 <p>
   <form method="get" action="http://www.google.com/search" target="_blank">
     <input type="hidden" name="sitesearch" value="pixelpowerpodcast.com" width="500px" />
-    🔍 <input type="text" name="q" size="50" maxlength="255" placeholder="Enter search string… " />
+    <input type="text" name="q" size="50" maxlength="255" placeholder="🔍  Enter search string… " />
   </form>
 </p>
 

@@ -20,7 +20,7 @@ In this recording, and just in time for your commute home, I share my ramblings 
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/ba7c1aed97ea05f530357c50d17be3b4.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0036-Ad-Hoc---Made-by-Google-Event-2019-Warning--Ramblings-ahead-e7no1l" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

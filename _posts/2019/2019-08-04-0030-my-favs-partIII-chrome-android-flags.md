@@ -27,7 +27,7 @@ Series Links:
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/e17d2fa886b08200074121591010c7ab.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0030-My-Favs-Part-III-Chrome-for-Android-Flags-e4rv5k" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

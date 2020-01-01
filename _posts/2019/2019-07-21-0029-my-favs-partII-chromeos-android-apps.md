@@ -27,7 +27,7 @@ Series Links:
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/c1358766a7dd5e225ed1d4b193f31563.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0029-My-Favs-Part-II-Android-Apps-on-Chrome-OS-e4n00e" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

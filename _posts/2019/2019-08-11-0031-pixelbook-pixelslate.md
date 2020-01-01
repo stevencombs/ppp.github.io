@@ -20,7 +20,7 @@ I take a half-time break in the six-part series of "My Favs" to share my thought
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/d698650d23fa49f47c438fe98e024631.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0031-Pixelbook--Pixel-Slate-e50em4" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 

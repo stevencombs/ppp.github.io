@@ -21,7 +21,7 @@ It’s the last episode of the year before I head off for a holiday hiatus and I
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2019-12-19/cf63050014eb7447b8632b443e3a6e76.m4a)
 
-## Listen now
+## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0040-Holiday-Hiatus-e9k2ts" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
