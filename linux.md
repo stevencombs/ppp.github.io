@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /crostini/
+permalink: /linux/
 ---
 
 # Crostini (Debian Linux) on Chrome OS
@@ -33,8 +33,9 @@ If you enjoyed these episodes or learned something new, consider supporting the 
 
 <hr>
 
-## Termux
+## Termux Resources
 
+- Pixel Power Podcast Termux Episode: [0026: Termux on Pixel Phone](/0026) [2019-06-09]
 - [Termux on the Google Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en_US) - Grab a copy and it works on both Pixel phone and Pixelbook
 - [Termux Homepage](https://termux.com/) - Home of the Android terminal emulator
 - [Termux Wiki](https://wiki.termux.com/wiki/Main_Page) - Everything you need to know about using Termux on your Android phone
