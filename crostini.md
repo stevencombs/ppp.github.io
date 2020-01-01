@@ -63,7 +63,7 @@ If you really want to learn Linux Commands, I highly recommend the following boo
 
 Check out my open for comments and additions [Linux application compatibility Google Sheet](https://docs.google.com/spreadsheets/d/1Roo_GXUewJamb6_OUVbdYW2w5o9XJLXYW392s8TAA-Y/edit?usp=sharing). On this page you can view the applications that work with Crostini as well as; how to install the applications, which density setting optimizes the experience, and useful notes. Be sure to add your own information by leaving a comment. You can view a small window into the document below:
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-0z0oZFgd1DYnDW4yCOy3hzY-OuFCi1I9wcXGtm3us9IJqkwyZwAQgXtAk33RzoQMo4yH88IydVkj/pubhtml?widget=true&amp;headers=false" width="500px" height="1000px"></iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-0z0oZFgd1DYnDW4yCOy3hzY-OuFCi1I9wcXGtm3us9IJqkwyZwAQgXtAk33RzoQMo4yH88IydVkj/pubhtml?widget=true&amp;headers=false" width="500px" height="700px" scrolling="yes"></iframe></p>
 
 <hr>
 
