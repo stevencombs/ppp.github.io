@@ -35,6 +35,8 @@ Use the `Open Document` reveal button to launch the show notes in Google Docs.
 
 ## Android TV Controller Comparison Chart
 
+Below is a small view of the comparison chart. To see the chart in full-screen mode and to make recommendations via the Google Sheets comments, click [here](https://docs.google.com/spreadsheets/d/1F1QiZ-HV7ihUyPeaxXht719azKlDSw9miJOws4bqL4I/edit?usp=sharing).
+
 <p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqQ3_jz71RQ3NQe2qOL3gSx9SNH5shUyFTifVlAMjUZSPMQClkVRoDok_-GGgxOpnGams0e5wqX9Ly/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="500px" height="500px"></iframe></p>
 
 ## Feeback
