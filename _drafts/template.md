@@ -20,7 +20,7 @@ Synopsis
 
 <p><iframe src="link" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
-![Episode Album Art](/images/album-art/2019/00XX.png)
+![Episode Album Art](/images/album-art/2020/00XX.png)
 
 ## Show Notes
 
