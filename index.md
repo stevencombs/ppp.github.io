@@ -35,7 +35,7 @@ Looking for a specific shows or content? Use the Google search feature below:
 <li style='list-style-type: none;'>
 {{ post.date | date: "%B %d, %Y" }}<br>
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-{{ post.content |truncatehtml | truncatewords: 40 }}
+{{ post.content |truncatehtml | truncatewords: 30 }}
 {% endfor %}
 
 <hr>
