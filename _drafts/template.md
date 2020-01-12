@@ -2,7 +2,7 @@
 layout: post
 title:  "00XX: Title!"
 permalink: /00XX/
-date:   2019-00-00 08:00:00 -0500
+date: 2019-00-00 08:00:00 -0500
 author: "Steven B. Combs, Ph.D."
 category:
   - podcast
