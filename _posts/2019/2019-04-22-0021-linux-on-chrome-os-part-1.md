@@ -20,7 +20,7 @@ You own a Pixelbook or Chrome OS device. Did you know you are running a Linux ke
 
 Series Links:
 
-- [0021: Part 1 - Installation and virtual machine review](/021) [2019-04-22]
+- [0021: Part 1 - Installation and virtual machine review](/0021) [2019-04-22]
 - [0022: Part 2 - Linux applications installations](/0022) [2019-04-29]
 - [0024: Part 3 - File management and hardware devices](/0024) [2019-05-19]
 - [0025: Part 4 - Linux terminal commands](/0025) [2019-05-26]
