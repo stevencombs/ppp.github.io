@@ -96,3 +96,5 @@ Use the following methods to share feedack on this episode:
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)
+
+<div id="amzn-assoc-ad-b81e3a4c-a2a4-4d9a-a47b-7d707c42cb86"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b81e3a4c-a2a4-4d9a-a47b-7d707c42cb86"></script>
