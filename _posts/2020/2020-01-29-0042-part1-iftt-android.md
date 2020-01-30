@@ -2,7 +2,7 @@
 layout: post
 title:  "0042: Part 1 - Using IFTTT on a Pixel or Android Phone"
 permalink: /0042/
-date: 2020-01-00
+date: 2020-01-29
 author: "Steven B. Combs, Ph.D."
 category:
   - podcast
