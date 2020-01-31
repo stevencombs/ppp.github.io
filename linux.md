@@ -80,6 +80,29 @@ If you really want to learn Linux commands, I highly recommend the book below:
 
 <hr>
 
+## Error Resolutions
+
+This area shares tips and trick to resolve errors you may encounter with the Crostini VM.
+
+### Expired Key Signatures
+
+In January of 2020, Chrome OS 80 (beta) came to our Pixelbooks and Slates with expired signatures keys for the Crostini repositories that contain Crostini tools and utilities. This error bewildered many when they saw the following error message when issuing the `sudo apt update` command and the following appeared:
+
+```
+W: GPG error: https://storage.googleapis.com/cros-packages/81 buster Release: The following signatures couldn’t be verified because the public key is not available: NO_PUBKEY 78BD65473CB3BD13
+E: The repository ‘https://storage.googleapis.com/cros-packages/81 buster Release’ is not signed.
+N: Updating from such a repository can’t be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+```
+
+While you can wait for Google to update the signature keys, and all other software will receive updates, the command below will correct the error:
+
+```
+sudo apt-key adv --refresh-keys --keyserver keyserver.ubuntu.com
+```
+
+<hr>
+
 ## Crowd-Sourced Linux on Pixelbook App Compatibility List
 
 Check out my open for comments and additions [Linux application compatibility Google Sheet](https://docs.google.com/spreadsheets/d/1Roo_GXUewJamb6_OUVbdYW2w5o9XJLXYW392s8TAA-Y/edit?usp=sharing). On this page you can view the applications that work with Crostini as well as; how to install the applications, which density setting optimizes the experience, and useful notes. Be sure to add your own information by leaving a comment. You can view a small window into the document below:
