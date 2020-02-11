@@ -30,10 +30,16 @@ The three-part series includes:
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0042-Part-1---Using-IFTTT-on-a-Pixel-or-Android-Phone-eah9a1" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
+<!--
+
+Need to continue to work on this. Fine for Desktop, but not mobile.
+
 <div style="position:relative;padding-top:19.6%;background-color:white;">
-  <iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0042-Part-1---Using-IFTTT-on-a-Pixel-or-Android-Phone-eah9a1" frameborder="0" scrolling="no"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0042-Part-1---Using-IFTTT-on-a-Pixel-or-Android-Phone-eah9a1" frameborder="0" scrolling="no"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe><p>
 </div>
+
+-->
 
 ![Episode Album Art](/images/album-art/2020/0042.png)
 
