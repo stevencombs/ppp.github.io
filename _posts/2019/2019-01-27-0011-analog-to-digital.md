@@ -21,7 +21,7 @@ In Episode 0011 (2019-01-27),  I admit it that while I do love the digital, I am
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0011-Analog-to-Digital-e31ube" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
-![Episode Album Art](/images/album-art/2020/0011.png)
+![Episode Album Art](/images/album-art/2019/0011.png)
 
 ## Show Notes
 
@@ -29,7 +29,7 @@ Show notes for this epiaode are in a Google Doc. Use the link below to view this
 
 [View Enhance Show Notes](https://docs.google.com/document/d/1hvx__B6jP3UkBxnD1RPYtzZOrJKZApAudLyLsMncGQs/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTuTW7fp8ezo2XXqSNO7ovxA6iQ1qoUNArJk1qPBGpaHZWu-xT_D1QXwxx2-qMrz6AtiS1KAxFnqdDa/pub?embedded=true" width="100%"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTuTW7fp8ezo2XXqSNO7ovxA6iQ1qoUNArJk1qPBGpaHZWu-xT_D1QXwxx2-qMrz6AtiS1KAxFnqdDa/pub?embedded=true" width="100%" height="1000px"></iframe>
 
 Use the following methods to share feedack on this episode:
 
