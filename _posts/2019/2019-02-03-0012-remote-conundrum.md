@@ -15,8 +15,6 @@ In Episode 0012, a double-sized edition, I take a look at some alternative remot
 
 > **HOST NOTES:** This is the first episode that includes what would become a regular feature of the show, The Addendum. It has proven to be a popular addition.
 
-![Episode Album Art](/images/album-art/2019/0012.png)
-
 ## Episode Download
 
 [Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/production/2019-1-8/9738327-44100-1-8f6a5ad21adbb.mp3)
@@ -24,6 +22,8 @@ In Episode 0012, a double-sized edition, I take a look at some alternative remot
 ## Listen Now
 
 <p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0012-Remote-Conundrum-e35f73" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+
+![Episode Album Art](/images/album-art/2019/0012.png)
 
 ## Show Notes
 
