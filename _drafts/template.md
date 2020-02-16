@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "00XX: Title"
+title:  '00XX: Title'
 permalink: /00XX/
 date: 20XX-00-00 08:00:00 -0500
-author: "Steven B. Combs, Ph.D."
+author: 'Steven B. Combs, Ph.D.'
+email: 'steven@pixelpowerpodcast.com'
 category:
   - podcast
 tags:

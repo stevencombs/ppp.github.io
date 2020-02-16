@@ -19,7 +19,7 @@ This is part one of a three-part series on the use of the free service IFTTT to 
 The three-part series includes:
 
 1. [Part 1 - Using IFTTT on a Pixel or Android Phone](/0042)
-2. [Part 2 - Using IFTTT with the Google Assistant](/0043) - Coming soon
+2. [Part 2 - Using IFTTT with the Google Assistant](/0043)
 3. [Part 3 - Using IFTTT with G Suite applications](/0044) - Coming soon
 
 ## Episode Download

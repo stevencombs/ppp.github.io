@@ -11,9 +11,7 @@ tags:
   - remotes
 ---
 
-In Episode 0012, a double-sized edition, I take a look at some alternative remote control devices for Android TV.
-
-Afterward, I share the latest news, thank a colleague, and begin a new podcast feature, _The Addendum_.
+In Episode 0012, a double-sized edition, I take a look at some alternative remote control devices for Android TV. Afterward, I share the latest news, thank a colleague, and begin a new podcast feature, _The Addendum_.
 
 > **HOST NOTES:** This is the first episode that includes what would become a regular feature of the show, The Addendum. It has proven to be a popular addition.
 
