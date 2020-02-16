@@ -9,6 +9,7 @@ category:
 tags:
   - androidtv
   - remotes
+  - cordcutting 
 ---
 
 In Episode 0012, a double-sized edition, I take a look at some alternative remote control devices for Android TV. Afterward, I share the latest news, thank a colleague, and begin a new podcast feature, _The Addendum_.
@@ -37,7 +38,7 @@ Show notes for this epiaode are in a Google Doc. Use the link below to view this
 
 Below is a small view of the comparison chart. To see the chart in full-screen mode and to make recommendations via the Google Sheets comments, click [here](https://docs.google.com/spreadsheets/d/1F1QiZ)
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqQ3_jz71RQ3NQe2qOL3gSx9SNH5shUyFTifVlAMjUZSPMQClkVRoDok_-GGgxOpnGams0e5wqX9Ly/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="500px" height="500px"></iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqQ3_jz71RQ3NQe2qOL3gSx9SNH5shUyFTifVlAMjUZSPMQClkVRoDok_-GGgxOpnGams0e5wqX9Ly/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600px"></iframe></p>
 
 ## Feeback
 
