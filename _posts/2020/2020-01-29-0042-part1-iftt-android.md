@@ -194,9 +194,9 @@ If have an IFTTT routine you would like to share, send them to me via [email](st
 12. [OBS Studio](https://obsproject.com/): Want to capture Chrome OS screen from a device into application. First solution was a bust. Hopefully I can find something. Let me know if you have ideas.
 13. [Podcast Web Site](https://www.pixelpowerpodcast.com): Still working on transfering past episodes to the new web site and hope you are enjoying the new format. Let me know.
 
-## Feeback
+## Feedback
 
-Use the following methods to share feedack on this episode:
+Use the following methods to share feedback on this episode:
 
 * Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)

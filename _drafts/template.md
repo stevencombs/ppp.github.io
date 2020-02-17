@@ -33,9 +33,9 @@ Synopsis
 
 ### Addendum
 
-## Feeback
+## Feedback
 
-Use the following methods to share feedack on this episode:
+Use the following methods to share feedback on this episode:
 
 * Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
