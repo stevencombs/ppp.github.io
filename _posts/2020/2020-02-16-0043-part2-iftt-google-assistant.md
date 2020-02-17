@@ -27,7 +27,7 @@ The three-part series includes:
 
 ## Episode Download
 
-[Download Episode]()
+[Download Episode](https://s3-us-west-2.amazonaws.com/anchor-audio-bank/staging/2020-02-17/9327028eedd15b86c7d38822dfff6e38.m4a)
 
 ## Listen Now
 
