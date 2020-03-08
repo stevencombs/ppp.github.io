@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '0044: Part 2 - Using IFTTT with G Suite'
+title:  '0044: Part 3 - Using IFTTT with G Suite'
 permalink: /0044/
 date: 2020-03-08
 author: 'Steven B. Combs, Ph.D.'
