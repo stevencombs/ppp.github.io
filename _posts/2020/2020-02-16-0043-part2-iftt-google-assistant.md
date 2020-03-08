@@ -17,13 +17,13 @@ tags:
   - assistant
 ---
 
-This is part two of a three-part series on the use of the free service IFTTT to automate actions on the Pixel Phone, Google Assistant, or G Suite applications. In this episode we learn to use IFTTT with the Google Assistant available on our phones, tablets, and hubs. In the _Addendum_, I drop hints about a new Lenovo Smart Tab Android tablet complete with unboxing video!
+This is part two of a three-part series on the use of the free service [IFTTT](https://ifttt.com/) to automate actions on the Pixel Phone, Google Assistant, or G Suite applications. In this episode we learn to use IFTTT with the Google Assistant available on our phones, tablets, and hubs. In the _Addendum_, I drop hints about a new Lenovo Smart Tab Android tablet complete with unboxing video!
 
 The three-part series includes:
 
 1. [Part 1 - Using IFTTT on a Pixel or Android Phone](/0042)
 2. [Part 2 - Using IFTTT with the Google Assistant](/0043)
-3. [Part 3 - Using IFTTT with G Suite applications](/0044) - Coming soon
+3. [Part 3 - Using IFTTT with G Suite applications](/0044)
 
 ## Episode Download
 
@@ -63,15 +63,15 @@ This trigger fires when you say, “Ok Google” to the Google Assistant followe
 
 #### Trigger 2 - Say a phrase with a number
 
-This trigger fires when you say, “Ok Google” to the Google Assistant followed by a phrase like “Set Nest thermostat to 68.” **Use the # symbol to specify where you'll say the number ingredient
+This trigger fires when you say, “Ok Google” to the Google Assistant followed by a phrase like “Set Nest thermostat to 68.” **Use the # symbol to specify where you'll say the number ingredient.
 
 #### Trigger 3 - Say a phrase with a text ingredient
 
-This trigger fires when you say, “Ok Google” to the Google Assistant followed by a phrase like “Post a tweet saying ‘New high score.’” **Use the $ symbol to specify where you'll say the text ingredient
+This trigger fires when you say, “Ok Google” to the Google Assistant followed by a phrase like “Post a tweet saying ‘New high score.’” **Use the $ symbol to specify where you'll say the text ingredient.
 
 #### Trigger 4 - Say a phase with both a number and a text ingredient
 
-This trigger fires when you say, “Ok Google” to the Google Assistant followed by a phrase like “Block time for ‘exercise’ at 6 PM.” **Use the # symbol to specify where you'll say the number ingredient and $ where you'll say the text ingredient
+This trigger fires when you say, “Ok Google” to the Google Assistant followed by a phrase like “Block time for ‘exercise’ at 6 PM.” **Use the # symbol to specify where you'll say the number ingredient and $ where you'll say the text ingredient.
 
 ### Suggested Applets or Applications
 
@@ -112,7 +112,7 @@ If have an IFTTT routine you would like to share, send them to me via [email](st
 
 ### Addendum
 
-1. [Lenovo YOGA Smart Tab (with Google Assistant):](https://www.lenovo.com/us/en/tablets/android-tablets/lenovo-tab-series/Lenovo-Yoga-Smart-Tab-with-thehttps://amzn.to/38zWO6h-Google-Assistant/p/ZZITZTBYT2X) Bought to purge iOS mobile devices. Review coming soon but I did post an [article and unboxing video](https://www.stevencombs.com/android/2020/02/09/lenovo-smart-tab-unboxing.html). I even [found a case](https://amzn.to/2u8LNdm) that works well with the device. Includes Android 9, 64 Gb storage, and 4 GB RAM.
+1. [Lenovo YOGA Smart Tab (with Google Assistant)](https://www.lenovo.com/us/en/tablets/android-tablets/lenovo-tab-series/Lenovo-Yoga-Smart-Tab-with-thehttps://amzn.to/38zWO6h-Google-Assistant/p/ZZITZTBYT2X): Bought to purge iOS mobile devices. Review coming soon but I did post an [article and unboxing video](https://www.stevencombs.com/android/2020/02/09/lenovo-smart-tab-unboxing.html). I even [found a case](https://amzn.to/2u8LNdm) that works well with the device. Includes Android 9, 64 Gb storage, and 4 GB RAM.
 2. [StevenCombs.com](https://www.stevencombs.com): New theme and better experience reading across devices. Similar theme to the Pixel Power Podcast site. Also [a recent post](https://www.stevencombs.com/gadgets/2020/02/02/technology-travel-bag.html) describing the devices I use when I travel with the Pixel Slate as the featured device.
 3. [RavPower travel filehub and router](https://amzn.to/31X3UPU):  experiment to connect devices while traveling
 4. [iaWriter](https://play.google.com/store/apps/details?id=net.ia.iawriter&hl=en_US): Love this markdown app for Android and use for blogging and writing on the go.

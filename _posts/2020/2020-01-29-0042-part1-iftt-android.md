@@ -14,13 +14,13 @@ tags:
   - automation
 ---
 
-This is part one of a three-part series on the use of the free service IFTTT to automate actions on the Pixel Phone, Google Assistant, or G Suite. In this episode we begin using IFTTT with our Pixel or Android phones. If you really want to up your Pixel-powered game, learn how to create IFTTT applets to automate functions on your phone.
+This is part one of a three-part series on the use of the free service [IFTTT](https://ifttt.com/) to automate actions on the Pixel Phone, Google Assistant, or G Suite. In this episode we begin using IFTTT with our Pixel or Android phones. If you really want to up your Pixel-powered game, learn how to create IFTTT applets to automate functions on your phone.
 
 The three-part series includes:
 
 1. [Part 1 - Using IFTTT on a Pixel or Android Phone](/0042)
 2. [Part 2 - Using IFTTT with the Google Assistant](/0043)
-3. [Part 3 - Using IFTTT with G Suite applications](/0044) - Coming soon
+3. [Part 3 - Using IFTTT with G Suite applications](/0044)
 
 ## Episode Download
 
