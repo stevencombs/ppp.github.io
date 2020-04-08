@@ -192,3 +192,6 @@ Use the following methods to share feedback on this episode:
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcxMDQwMzUwOV19
+-->
