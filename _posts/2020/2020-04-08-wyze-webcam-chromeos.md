@@ -24,13 +24,13 @@ My blog post, and the [accompanying YouTube video](https://www.youtube.com/watch
 <div style="position:relative;padding-top:56.25%;"><p><iframe src="https://www.youtube.com/embed/ft5GLFBIPNw" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></p>
 </div>
 
-While I did share these video results on my personal blog, I thought it important to share here for listeners who may want to give this a shot themselves. You will notice from the video that performance is spotty at best for the microphone; however, video and speaker functionality work well. Knowing this, you may find a use case for these inexpensive camera's with your Pixel device. 
+While I did share these video results on my personal blog, I thought it important to share here for listeners who may want to give this a shot themselves. You will notice from the video that performance is spotty at best for the microphone; however, video and speaker functionality work well. Knowing this, you may find a use case for these inexpensive camera's with your Pixel device.
 
 If you do use a Wyze Cam as a webcam, remember to select the Pixel devices built-in microphone instead of the Wyze Cams internal microphone. Especially on the Slate since it has some of the best microphones of any Pixel device. You can do this in *Settings* or selecting the input/output options button to the right of the volume controls in the *Launcher* settings.
 
 Let me know if you give this a try. I'd love to hear your feedback. And how can you provide that feedback? Look no further than the information below:
 
-## Use the following methods to share feedback on this episode:
+## Use the following methods to share feedback or ask questions:
 
 * Send an email to <steven@pixelpowerpodcast.com>
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
