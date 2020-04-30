@@ -2,13 +2,13 @@
 layout: post
 title:  '00XX: Title'
 permalink: /00XX/
-date: 20XX-00-00 08:00:00 -0500
+date: '20XX-00-00'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@pixelpowerpodcast.com'
 category:
   - podcast
 tags:
-  -
+  - 
 ---
 
 Synopsis
@@ -23,15 +23,11 @@ Synopsis
 
 ![Episode Album Art](/images/album-art/2020/00XX.png)
 
-## Show Notes
+## Main Topic
 
 [View Enhance Show Notes](link)
 
-### Introduction
-
-### Main Topic
-
-### Addendum
+## Addendum
 
 ## Feedback
 
@@ -41,3 +37,6 @@ Use the following methods to share feedback on this episode:
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2OTcwNTAxMTJdfQ==
+-->
