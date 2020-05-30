@@ -2,7 +2,7 @@
 layout: post
 title:  '0046: Progressive Web Applications (PWAs) for Chrome OS'
 permalink: /0046/
-date: '2020-04-296'
+date: '2020-04-26'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@pixelpowerpodcast.com'
 category:
@@ -94,7 +94,7 @@ Feedback from past episodes includes:
     * [Google Maps](https://maps.google.com) - good for older phones or Chrome OS device with memory constraints
     * [Google News](https://news.google.com) - my favorite way to browse news on Chrome OS
     * [Google Photos](https://photos.google.com) - yep, even Google Photos has a PWA
-    * [Google Trips](https://travel.google.com) - was an app for mobile, now 
+    * [Google Trips](https://travel.google.com) - was an app for mobile, now
 
 3. Here's a list of some other compelling PWAs for Chrome OS users:
 
@@ -143,7 +143,7 @@ Thanks to everyone for the feedback. Use information below to send your feedback
     * [StackEdit](https://stackedit.io/) Markdown Editor - The Markdown editor I used to write this blog post
 
 4. The Google Web Store has rolled out extended support for PWAs. Just search for "progressive web application" and choose the apps filter.
-5. 
+5.
 
 ## Addendum
 
