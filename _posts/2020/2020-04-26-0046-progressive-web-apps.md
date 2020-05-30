@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  '0046: Progressive Web Applications (PWAs)'
+title:  '0046: Progressive Web Applications (PWAs) for Chrome OS'
 permalink: /0046/
-date: '2020-04-29'
+date: '2020-04-296'
 author: 'Steven B. Combs, Ph.D.'
 email: 'steven@pixelpowerpodcast.com'
 category:
@@ -14,7 +14,7 @@ tags:
   - applications
 ---
 
-There are thousands of applications available on the Chrome Web and Google Play stores. There are also thousands of applications available as a web page or service. What if you combined the two? Well, then you would have a progressive web application, or PWA. In this episode, I look at the best PWAs for Chrome OS and Android (since they work on either device).
+There are thousands of applications available on the Chrome Web and Google Play stores. There are also thousands of applications available as a web page or service. What if you combined the two? Well, then you would have a progressive web application, or PWA. In this episode, Iwe take a look at the best PWAs for Chrome OS and Android (since they work on either device).
 
 ## Episode Download
 
@@ -22,9 +22,17 @@ There are thousands of applications available on the Chrome Web and Google Play 
 
 ## Listen Now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0046-Progressive-Web-Applications-PWAs-ede1ck" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0046-Progressive-Web-Applications-PWAs-ede1c.
 
-![Episode Album Art](/images/album-art/2020/0046.png)
+## Episode Download
+
+[Download Episode](link)
+
+## Listen Now
+
+<p><iframe src="link" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+
+![Episode Album Art](/images/album-art/2020/0046XX.png)
 
 ## Feedback
 
@@ -33,7 +41,7 @@ Feedback from past episodes includes:
 1. Rick asked to up the volume on the podcast. Working on it and hopefully this episode is better. Now he can blast the episode as he drive topless (his car) down the road.
 2. Redditor, texbiker, shared that he is using Zwift for indoor biking to help him through the COVID-19 and is also the recipient of a new Samsung Galaxy Chromebook. He's having good experiences so far. Check out his comments on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/comments/fzkdit/httpswwwpixelpowerpodcastcom0045/).
 
-## Progressive Web Applications
+## Progressive Web Applications for Chrome OS
 
 ### History
 
@@ -58,15 +66,15 @@ Feedback from past episodes includes:
     * Using the Chrome browser, visit a site know to have PWA alternative (more on finding these later)
     * On the right side of the address bar, to the left of the *bookmark this tab* (☆) option an *Install {Application}* option (⊕) as shown in the image below:
 
-    ![Install option in Chrome browser](/images/posts/2020-04-29-progressive-web-apps/install-pwa.png)
+    ![Install option in Chrome browser](/images/posts/2020-04-29-progressive-web-apps/install-pwa.pnglink)
 
 	  * Click *Install* in notification as shown in the image below:
 
-    ![Verify the installation](/images/posts/2020-04-29-progressive-web-apps/pwa-install-verification.png)
+    ![Verify the installation](/images/posts/2020-04-29-progressive-web-apps/pwa-install-verification.pnglink)
 
 	  * Chrome OS will install the web app, place an item in the Launcher, and display the app in it's own unique window as shown below (if you were logged into the web application, the credentials will most likely move to the PWA so you don't have to log back in)
 
-	![Twitter PWA on Chrome OS](/images/posts/2020-04-29-progressive-web-apps/twitter-pwa.png)
+	![Twitter PWA on Chrome OS](/images/posts/2020-04-29-progressive-web-apps/twitter-pwa.pnglink)
 
     * Most PWAs will mimic their web or mobile application almost exactly and to load the PWA, simply visit the Launcher (you can pin the app to the Shelf), or use the search button and type the name of the PWA.
 
@@ -86,7 +94,11 @@ Feedback from past episodes includes:
     * [Google Maps](https://maps.google.com) - good for older phones or Chrome OS device with memory constraints
     * [Google News](https://news.google.com) - my favorite way to browse news on Chrome OS
     * [Google Photos](https://photos.google.com) - yep, even Google Photos has a PWA
-    * [Google Trips](https://travel.google.com) - was an app for mobile, now lives as a PWA
+    * [Google Trips](https://travel.google.com) - was an app for mobile, now 
+
+3. Here's a list of some other compelling PWAs for Chrome OS users:
+
+    * [Remote for Slides](https://slivdes as a PWA
     * [Stadia](https://stadia.google.com) - this one is for all you gamers out there
     * [Track Santa](https://santatracker.google.com) - save this PWA for Christmas
     * [Chrome Canvas](https://canvas.apps.chrome) - the Canvas app from the lock screen of the Pixel devices, now in a PWA window
@@ -126,7 +138,16 @@ Below are the items for this episode's *Addendum* segment:
 9. [YouTube TV](https://tv.youtube.com) - Live channels support for Android TV rolling out to various devices.
 10. [IKEA RIGGID Desk Lamp](https://www.ikea.com/us/en/p/riggad-led-work-lamp-w-wireless-charging-white-40385642/) - On my desk and Qi charger works well with the Pixel 4. More use during COVID-19.
 
-Thanks to everyone for the feedback. Use information below to send your feedback.
+Thanks to everyone for the feedback. Use information below to send your feedback..limhenry.xyz/)
+    * [Wavemaker Cards, Plan and Write Your Novel](https://wavemaker.cards/)
+    * [StackEdit](https://stackedit.io/) Markdown Editor - The Markdown editor I used to write this blog post
+
+4. The Google Web Store has rolled out extended support for PWAs. Just search for "progressive web application" and choose the apps filter.
+5. 
+
+## Addendum
+
+## Feedback
 
 Use the following methods to share feedback on this episode:
 
@@ -134,3 +155,6 @@ Use the following methods to share feedback on this episode:
 * Leave a voice message by clicking [here](https://anchor.fm/pixelpowerpodcast/message)
 * Join the conversation on [Reddit](https://www.reddit.com/r/pixelpowerpodcast/)
 * Tweet using [#pixelpowerpodcast](https://twitter.com/search?q=%23pixelpowerpodcast&src=typed_query)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3ODczNTQwNDldfQ==
+-->
