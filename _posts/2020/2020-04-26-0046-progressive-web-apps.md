@@ -22,15 +22,7 @@ There are thousands of applications available on the Chrome Web and Google Play 
 
 ## Listen Now
 
-<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0046-Progressive-Web-Applications-PWAs-ede1c.
-
-## Episode Download
-
-[Download Episode](link)
-
-## Listen Now
-
-<p><iframe src="link" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://anchor.fm/pixelpowerpodcast/embed/episodes/0046-Progressive-Web-Applications-PWAs-ede1ck" height="98px" width="500px" frameborder="0" scrolling="no"></iframe></p>
 
 ![Episode Album Art](/images/album-art/2020/0046XX.png)
 
