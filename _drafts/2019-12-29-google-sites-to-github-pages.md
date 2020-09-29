@@ -90,7 +90,6 @@ Once the Jekyll site is configured, begin the very manual and very laborious tas
 1. Create a `template.md` file in the `_drafts` folder. This file will be duplciated before each new post and used as a template to ensure consistency between all posts. I found myself modifying it regularly to add additional features or corrections to streamline my flow. [View my template on GitHub](https://raw.githubusercontent.com/stevencombs/ppp.github.io/master/_drafts/template.md).
 2. Duplicate the `template.md` file in Atom (simply right-click on the file and choose the Duplicate option). Keep this file in the `_drafts` folder until is complete and has been read and edited at least twice.
 
-
 It was a great chance to clean up some errors and correct consistency. Be sure and go back and look at previous episode pages for new content.
 
 Added an RSS feed to the Jekyll site. Thanks to Joel Glovier for [these simple instructions](https://joelglovier.com/writing/rss-for-jekyll).
