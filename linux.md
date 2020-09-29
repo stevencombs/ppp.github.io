@@ -12,7 +12,7 @@ tags:
   - terminal
 ---
 
-# Linux on Chrome OS
+## Linux on Chrome OS
 
 During the months of April and May of 2019, I recorded a four-part series of Pixel Power Podcast episodes where I discuss the install and use of Linux on Chrome OS via Google's Crostini virtual machine (VM) system.
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to the Pixel Power Podcast
+## Welcome to the Pixel Power Podcast
 
 Each episode of the podcast and each blog post helps listeners and readers get the most out of your Google-powered devices and apps such as the Pixelbook, Pixel Slate, and Pixel phones.
 
